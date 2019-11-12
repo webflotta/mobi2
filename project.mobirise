@@ -27,7 +27,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 6,
     "versionPublish": "4.11.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-46x46.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
