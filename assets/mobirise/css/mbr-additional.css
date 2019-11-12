@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
+
 
 
 
@@ -464,13 +466,14 @@ section.form .container {
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #daaa5e;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.191rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -521,4 +524,19 @@ section.form .container {
 }
 #menu-0 .btn {
   font-size: 15px;
+}
+#header3-5 .mbr-section-title,
+#header3-5 .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-2 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-2 .iconbox {
+  background-color: #41a85f;
+  border-color: #41a85f;
+}
+#header3-4 .mbr-section-title,
+#header3-4 .mbr-section-subtitle {
+  text-align: center;
 }
